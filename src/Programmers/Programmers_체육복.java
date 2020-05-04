@@ -46,5 +46,5 @@ public class Programmers_체육복 {
             return answer;
         }
 
-    
+
 }
