@@ -4,7 +4,12 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 public class Programmers_가장큰수 {
-    public String solution(int[] numbers) {
+    public static void main(String[] args) {
+        int[] num = {3, 30, 34, 5, 9};
+        String value = solution(num);
+        System.out.println(value);
+    }
+    public static String solution(int[] numbers) {
         String answer = "";
         String[] arr = new String[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
