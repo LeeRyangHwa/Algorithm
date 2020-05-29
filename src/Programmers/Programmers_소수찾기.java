@@ -6,7 +6,6 @@ public class Programmers_소수찾기 {
     }
     public static int solution(int n) {
         int answer = 0;
-
         for(int i=2; i<=n; i++){
             boolean check = true;
             for(int j = 2; j*j<=i; j++){
