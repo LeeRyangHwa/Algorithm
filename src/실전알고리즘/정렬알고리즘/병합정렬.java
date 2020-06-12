@@ -51,37 +51,6 @@ public class 병합정렬 {
             arr[i] = temp[i - low];
         }
     }
-//    static void merge(int a[], int low, int mid, int high){
-//        int[] temp  = new int[high - low];
-//        int t =0, l = low, h = mid;
-//
-//        while(l < mid && h < high) {
-//            if(a[l]<a[h]) {
-//                temp[t++] = a[l++];
-//            }else {
-//                temp[t++]= a[h++];
-//            }
-//        }
-//        while (l < mid) {
-//            temp[t++] = a[l++];
-//        }
-//
-//        while (h < high) {
-//            temp[t++] = a[h++];
-//        }
-//
-//        for (int i = low; i < high; i++) {
-//            a[i] = temp[i - low];
-//        }
-//    }
-//    static void mergeSort(int a[], int low, int high){
-//        if(high - low <2) {
-//            return;
-//        }
-//        int middle = (low+ high)/2;
-//        mergeSort(a, 0, middle);
-//        mergeSort(a, middle, high);
-//        merge(a, low, middle, high);
-//    }
+
 }
 
