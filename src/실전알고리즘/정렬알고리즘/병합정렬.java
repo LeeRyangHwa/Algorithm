@@ -16,6 +16,7 @@ public class 병합정렬 {
         sort(arr, 0, arr.length);
     }
 
+
     private static void sort(int[] arr, int low, int high) {
         if (high - low < 2) {
             return;
@@ -51,6 +52,7 @@ public class 병합정렬 {
             arr[i] = temp[i - low];
         }
     }
+
 
 }
 
