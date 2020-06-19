@@ -8,7 +8,7 @@ public class 힙정렬 {
 
     }
     private static void solve() {
-        int[] array = { 230, 10, 60, 550, 40, 220, 20 };
+        int[] array = { 230, 10, 60, 550, 40, 220, 20,40, 60 };
 
         heapSort(array);
 
