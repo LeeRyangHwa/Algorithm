@@ -16,7 +16,7 @@ public class 최대공약수 {
         val2 = sc.nextInt();
 
         int tmp1 = val1, tmp2 = val2;//최소공배수를 구하기 위해 입력받은 값 저장
-        if (val1 < val2) {//2번째 입력수가 클 경우 큰수를 val1으로 변경
+        if (val1 < val2) {// 2번째 입력수가 클 경우 큰수를 val1으로 변경
             val1 = tmp2;
             val2 = tmp1;
         }
