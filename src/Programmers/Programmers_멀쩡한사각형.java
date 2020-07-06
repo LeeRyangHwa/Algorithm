@@ -26,7 +26,6 @@ public class Programmers_멀쩡한사각형 {
             x = y;
             y = r;
         }
-
         return x;
     }
 }
