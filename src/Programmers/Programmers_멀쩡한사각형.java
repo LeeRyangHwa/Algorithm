@@ -11,6 +11,7 @@ public class Programmers_멀쩡한사각형 {
         long color = ((w1/gcd)+(h1/gcd)-1)*gcd;
 
         answer = w1*h1 - color;
+
         return answer;
     }
     public long gcd(long x, long y){
