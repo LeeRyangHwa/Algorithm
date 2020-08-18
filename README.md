@@ -25,4 +25,4 @@
     * [삽입정렬](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.java)
     * [선택정렬](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.java)
     * [퀵정렬](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%EC%A0%95%EB%A0%AC.java)
-    * [힙정렬](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%EC%A0%95%EB%A0%AC.java)
+    * [힙정렬](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%EC%A0%95%EB%A0%AC.java) 
