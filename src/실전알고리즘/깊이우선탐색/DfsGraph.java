@@ -27,7 +27,7 @@ public class DfsGraph {
         visit = new boolean[nV+1]; // 변수 초기화
 
         for(int i = 0; i < nE; i++){
-            int t1 = scan.nextInt();5
+            int t1 = scan.nextInt();
 
             int t2 = scan.nextInt();
 
