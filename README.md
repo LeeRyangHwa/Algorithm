@@ -39,4 +39,6 @@
 
   3. 큐
   * [큐클래스사용](https://github.com/LeeRyangHwa/Algorithm-java/blob/master/src/%EC%8B%A4%EC%A0%84%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%81%90/%ED%81%90.java)
+
+  4. DFS & BFS
   * [DFS](https://github.com/LeeRyangHwa/Algorithm-java/commit/3fcfc6c2f06ef75ad08f475e9fe65de842a6f911)
